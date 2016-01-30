@@ -54,6 +54,7 @@ Bash
 ---
 
 Requriements - linux or mac computer
+
 1. Make a file named a.sh
 2. Copy and paste code into a.sh
 4. Execute/Run ```sh a.sh```
